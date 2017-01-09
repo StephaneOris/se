@@ -10,6 +10,7 @@ namespace Template
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("START");
             Console.WriteLine("Coffee ...");
 
             Coffee c = new Coffee();
