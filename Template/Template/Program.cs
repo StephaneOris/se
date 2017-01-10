@@ -20,6 +20,8 @@ namespace Template
             Tea t = new Tea();
             t.PrepareRecipe();
 
+            Console.WriteLine("Coffee ...");
+
             Console.ReadLine();
         }
     }
